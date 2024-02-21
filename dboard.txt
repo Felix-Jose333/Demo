@@ -1,0 +1,4 @@
+Added menus.
+Added sidebar.
+Added charts and logo.
+Added data processing and images.
